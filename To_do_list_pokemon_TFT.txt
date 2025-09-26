@@ -1,0 +1,3 @@
+- Faire un GDD
+- Faire un JIRA et faire des US pour chaque étape
+- Découper les US en plus petits tickets
