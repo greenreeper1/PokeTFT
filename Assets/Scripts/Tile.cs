@@ -25,10 +25,11 @@ public class Tile : MonoBehaviour
             pokemon = poke;
             pokemon.transform.position = transform.position;
         }
+    }
     // Start is called before the first frame update
     void Start()
     {
-        
+        transform.eulerAngles = new Vector3(0, 30, 0);
     }
 
     // Update is called once per frame
